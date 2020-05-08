@@ -2,7 +2,10 @@
 """
 Created on Wed May  6 19:42:45 2020
 
-@author: Vaibhav Rastogi
+@author: 
+Sumukh Lohit 1MS17IS20
+Vaibhav Rastogi 1MS171S127
+Zeel Shah 1MS17IS142
 """
 
 
