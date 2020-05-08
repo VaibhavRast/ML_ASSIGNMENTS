@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed May  6 19:42:45 2020
+Implementation of MLP Algorithm
 
 @author: 
 Sumukh Lohit 1MS17IS20
